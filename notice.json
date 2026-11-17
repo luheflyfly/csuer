@@ -1,9 +1,9 @@
 {
   "version": {
-    "code": 33,
-    "name": "4.4",
+    "code": 34,
+    "name": "4.5",
     "apk": "https://luheflyfly.github.io/csuer/pickup-latest.apk",
-    "notes": "1. 2×4 桌面组件\n2. 设置页：作者 / 版本 / 检查更新 / 公告 / 联系\n3. 公告与更新走远程（Pages 优先）"
+    "notes": "1. 设置入口移到右上角\n2. 版本号只读（不再提供改地址）\n3. 2×4 桌面组件"
   },
   "notices": [
     {
