@@ -2,8 +2,8 @@
   "version": {
     "code": 39,
     "name": "5.2",
-    "apk": "https://luheflyfly.github.io/csuer/pickup-latest.apk",
-    "notes": "1. 新增「拍标签找箱子」（测试版）：实时预览画框 + 相册识别\n2. 设置入口在右上角，版本号只读\n3. 2×4 桌面组件"
+    "apk": "https://github.com/luheflyfly/csuer/releases/download/v5.2/pickup-5.2.apk",
+    "notes": "1. 新增「拍标签找箱子」（测试版）：实时预览画框 + 相册识别\n2. 设置入口在右上角，版本号只读\n3. 2x4 桌面组件"
   },
   "notices": [
     {
