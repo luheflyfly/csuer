@@ -1,16 +1,16 @@
 {
   "version": {
-    "code": 29,
-    "name": "4.0",
-    "apk": "https://github.com/luhe-csu/pickup-data/releases/latest",
-    "notes": "1. 新增设置页（作者/版本/检查更新/公告/联系）\n2. 首启公告\n3. 公告与更新改为远程下发"
+    "code": 30,
+    "name": "4.1",
+    "apk": "https://luheflyfly.github.io/csuer/pickup-latest.apk",
+    "notes": "1. 界面与桌面组件（2×4）\n2. 设置页：作者 / 版本 / 检查更新 / 公告 / 联系\n3. 公告与更新改为远程下发"
   },
   "notices": [
     {
       "id": "2026-11-17-welcome",
       "title": "欢迎使用取件直达",
       "date": "2026-11-17",
-      "body": "感谢CSUer们的使用！有问题或建议欢迎反馈。"
+      "body": "感谢CSUer们的使用！＼(^▽^)／！\n\n我们希望建设一个校内一站式服务软件来解决你的不便，欢迎把我们推荐给同学，也欢迎反馈 bug 和功能建议。"
     }
   ]
 }
