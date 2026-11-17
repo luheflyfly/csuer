@@ -1,0 +1,16 @@
+{
+  "version": {
+    "code": 29,
+    "name": "4.0",
+    "apk": "https://github.com/luhe-csu/pickup-data/releases/latest",
+    "notes": "1. 新增设置页（作者/版本/检查更新/公告/联系）\n2. 首启公告\n3. 公告与更新改为远程下发"
+  },
+  "notices": [
+    {
+      "id": "2026-11-17-welcome",
+      "title": "欢迎使用取件直达",
+      "date": "2026-11-17",
+      "body": "感谢CSUer们的使用！有问题或建议欢迎反馈。"
+    }
+  ]
+}
